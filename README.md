@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on legacy project
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on backend projects using PHP
+- 🌱 I’m currently doing a private PHP/Laravel project
+- 👯 I’m looking to collaborate on backend projects using PHP and Laravel
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
